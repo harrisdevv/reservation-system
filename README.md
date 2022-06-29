@@ -30,4 +30,4 @@ An Amenity Reservation System which residents (users) can log in and reserve a t
 - [x] We should check the capacity and only create new reservations if the current number of reservations does not exceed the capacity.
 
 ## Demo
-
+![Demo Page](https://drive.google.com/file/d/16zPAqeCDE2cJ8uiEbljrLA9j9f-PPXKz/view?usp=sharing)
